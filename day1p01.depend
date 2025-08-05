@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1754066999 source:d:\mit_practice_problem\day1p01\operator.c
+	"header.h"
+
+1754066791 d:\mit_practice_problem\day1p01\header.h
+
+1754066931 source:d:\mit_practice_problem\day1p01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+	"header.h"
+
